@@ -1,0 +1,61 @@
+.content {
+  color: #fff;
+}
+
+p {
+  margin: 0;
+  color: white;
+}
+
+#block1 {
+  position: static;
+  width: 150px;
+  height: 100px;
+  background-color: #8a2be2;
+}
+
+.content #block2 {
+  position: relative;
+  width: 150px;
+  height: 100px;
+  background: #cd853f;
+  color: white;
+}
+
+.content #block3 {
+  position: relative;
+  width: 150px;
+  height: 100px;
+  background: #8b0000;
+  color: white;
+  left: 30px;
+  top: -30px;
+}
+
+#block4 {
+
+  position: relative;  
+  width: 600px;
+  height: 400px;
+  background: #cd5c5c;
+  color: white;
+}
+
+#block5 {
+  position: absolute;
+  width: 300px;
+  height: 200px;
+  left: 300px;
+  top: 100px;
+  background: #4b0082;
+  color: white;
+}
+
+#block6 {
+  position: fixed;
+  width: 100px;
+  height: 100px;
+  background: #228b22;
+  right: 0;
+  bottom: 0;
+}

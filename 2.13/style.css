@@ -1,0 +1,52 @@
+#block {
+  background: #00ffff;
+  width: 100%;
+  float: left;
+  border: 1px solid #008000;
+}
+
+#block #blockul {
+  margin: 0;
+  padding: 0;
+  background: #ffe4c4;
+  width: 20%;
+  float: left;
+}
+
+#block #blockp {
+  margin: 0;
+  padding: 0;
+  background: #a9a9a9;
+  float: right;
+  width: 80%;
+}
+
+#block #blockp p {
+  margin: 0;
+}
+
+#block #blockp img {
+  float: right;
+  width: 400px;
+  height: 365px;
+}
+
+#block #p2 {
+
+  background: #a9a9a9;
+  float: right;
+  width: 80%;
+}
+
+@media (max-width: 1000px) {
+
+  #block #blockp p {
+    margin: 0;
+  }
+
+  #block #blockp img {
+    float: right;
+    width: 170px;
+    height: 135px;
+  }
+}

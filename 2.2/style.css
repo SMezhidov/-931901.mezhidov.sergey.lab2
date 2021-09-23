@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.style-header {
+  background: #eaeaea;
+  height: 54px;
+}
+
+footer {
+  position: absolute;
+  background: #000;
+  height: 32px;
+  width: 100%;
+  bottom: 0;
+  
+}
+
+footer .astyle {
+  color: yellow;
+  margin-left: 50%;
+}
+
+
+td {
+  vertical-align: top;
+}
+
+.redstyle {
+  color: red;
+  font-style: italic;
+}
+
+
+.pstyle {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight:300;
+}

@@ -1,0 +1,27 @@
+.content {
+  
+  color: #000;
+}
+
+
+
+.block1 {
+  width: 500px;
+  background-color: #fff;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.block2 {
+  width: 480px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fff;
+  border: 10px solid #0000ff;
+
+}
+
+.block2 p {
+  padding: 50px;
+}
+

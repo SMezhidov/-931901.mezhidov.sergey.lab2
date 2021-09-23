@@ -1,0 +1,17 @@
+.content
+{
+
+}
+.box
+{
+  height: 100px;
+  display: inline-block;
+  background: #7fffd4;
+  width: 200px;
+  margin: 24px;
+}
+
+#clear {
+  background: #ffe4c4;
+  clear: left;
+}
